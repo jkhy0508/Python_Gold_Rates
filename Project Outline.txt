@@ -1,7 +1,0 @@
--Analyze data
--Look at trends throughout the years
--Compare the trends with other countries
--Check month to month changes and how they vary throughout the years
--Check the biggest dip/increase day in a month or year and look up what happened news wise
--Compare the rates to other economic factors (eg. Inflation, stock market)
--Try to forecast what might happen?
